@@ -23,4 +23,6 @@ iOS Application: The primary goal after the Android app's initial release is to 
 
 Physical Bottle Design: We envision a future where the app has a perfect physical counterpart. Our long-term objective is to design and produce a truly purpose-built infinity bottle that is as functional as it is beautiful, with unique features tailored to this concept.
 
+<img src="https://github.com/Developkings/Infinity-whisky-bottle-/blob/main/Physical%20bottle.jpg" alt="A small icon representing whisky" height="400" />
+
 We welcome contributions and feedback from the community to make this the ultimate companion for every infinity bottle enthusiast.
