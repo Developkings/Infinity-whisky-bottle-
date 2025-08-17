@@ -3,10 +3,11 @@ A mobile companion for your personal whisky blend.
 
 <img src="https://github.com/Developkings/Infinity-whisky-bottle-/blob/main/1.png" alt="A small icon representing whisky" height="400" />
 
-Overview
+**Overview**
+
 The Infinity Whisky Bottle is a mobile application designed for whisky enthusiasts who maintain a physical "infinity bottle"—a blend of various whiskies combined over time. This application serves as the digital brain for your bottle, providing a seamless way to log, track, and manage the ever-evolving composition of your unique blend. It helps you keep a perfect record of every pour and every addition, ensuring you always know exactly what's in your bottle.
 
-Key Features
+**Key Features**
 Virtual Bottle Management: Add a new whisky to your virtual bottle, specifying the brand, type, and volume. The app will automatically calculate the new total volume and composition.
 
 Dynamic Mix Composition: View the current blend composition in real time. The app presents a clear breakdown of each whisky in the bottle, including its percentage contribution to the total volume.
@@ -19,7 +20,8 @@ Save & Share: Save snapshots of your bottle's recipe at different points in time
 
 <img src="https://github.com/Developkings/Infinity-whisky-bottle-/blob/main/5.png" alt="A small icon representing whisky" height="400" />
 
-Support & Future Plans
+**Support & Future Plans**
+
 This project is supported by a passion for whisky and a commitment to creating a great tool for the community. We're excited about the future and have big plans to expand the project's scope:
 
 Tasting notes: Remember the characteristics of your blend.
