@@ -28,6 +28,8 @@ Tasting notes: Remember the characteristics of your blend.
 
 iOS Application: The primary goal after the Android app's initial release is to develop a native iOS version, bringing the Infinity Bottle Tracker to a wider audience.
 
+Play store and App store: get the app and updates directly from official stores
+
 Physical Bottle Design: We envision a future where the app has a perfect physical counterpart. Our long-term objective is to design and produce a truly purpose-built infinity bottle that is as functional as it is beautiful, with unique features tailored to this concept.
 
 <img src="https://github.com/Developkings/Infinity-whisky-bottle-/blob/main/Physical%20bottle.jpg" alt="A small icon representing whisky" height="400" />
