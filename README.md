@@ -24,8 +24,6 @@ Save & Share: Save snapshots of your bottle's recipe at different points in time
 
 This project is supported by a passion for whisky and a commitment to creating a great tool for the community. We're excited about the future and have big plans to expand the project's scope:
 
-Tasting notes: Remember the characteristics of your blend.
-
 iOS Application: The primary goal after the Android app's initial release is to develop a native iOS version, bringing the Infinity Bottle Tracker to a wider audience.
 
 Play store and App store: get the app and updates directly from official stores
