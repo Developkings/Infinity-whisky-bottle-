@@ -33,3 +33,5 @@ Physical Bottle Design: We envision a future where the app has a perfect physica
 <img src="https://github.com/Developkings/Infinity-whisky-bottle-/blob/main/Physical%20bottle.jpg" alt="A small icon representing whisky" height="400" />
 
 We welcome contributions and feedback from the community to make this the ultimate companion for every infinity bottle enthusiast.
+
+[Project blog]([URL](https://infinitiwhiskybottle.blogspot.com/))
