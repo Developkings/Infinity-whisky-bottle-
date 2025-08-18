@@ -34,4 +34,4 @@ Physical Bottle Design: We envision a future where the app has a perfect physica
 
 We welcome contributions and feedback from the community to make this the ultimate companion for every infinity bottle enthusiast.
 
-[Project blog]([URL](https://infinitiwhiskybottle.blogspot.com/))
+[Project blog](https://infinitiwhiskybottle.blogspot.com/)
